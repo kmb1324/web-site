@@ -63,7 +63,7 @@ body {
 }
 
 .hero{
-	background: url("../../img/develop/template-themes/portfolio6.jpg");
+	background: url("longhorn.jpg");
 	background-size: cover;
 	box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.15);
 	height: 80%;
@@ -98,10 +98,11 @@ body {
 
 .about img{
 	width: 250px;
-	height: 250px;
+	height: 300px;
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;	
+	-moz-border-radius: 150px;
+		
 }
 
 .work img:hover {
